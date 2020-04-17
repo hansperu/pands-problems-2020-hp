@@ -48,3 +48,4 @@ https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 
 https://youtu.be/AFnxpT5Aois
 
+[I'm an inline-style link](https://www.google.com)
