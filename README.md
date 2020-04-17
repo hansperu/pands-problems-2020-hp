@@ -44,10 +44,6 @@ https://docs.python.org/3/tutorial/
 https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 
 
-#### Other sources
-
-
-
 #### videos
 
 https://youtu.be/VMNxj6O6WGM
@@ -55,6 +51,16 @@ https://youtu.be/VMNxj6O6WGM
 https://youtu.be/cchC3dDAf6s
 
 #### Examples found:
+
+https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+
+https://gist.github.com/variux/fdcdc1639fbe6a35ebac0829f1fa3963
+
+#### Other sources
+
+https://www.coursera.org/specializations/python-3-programming
+
+www.datacamp.com/
 
 
 
