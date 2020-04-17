@@ -2,6 +2,9 @@
 
 ## Objective of the project
 
+The objective of this project is to develop a series of weekly exercises and tasks during the course of the PROGRAMMING AND SCRIPTING Course.
+
+The different tasks have been worked on mostly using Python leaning on other platforms and software to carry out the different exercises.
 
 
 ### Technology
@@ -29,7 +32,6 @@ RAM 8,00 GB
 Clock frequency: 3,6 GHz
 
 CPU Benchmark score: 1833
-
 
 
 ### Weekly task 2
@@ -61,10 +63,6 @@ https://gist.github.com/variux/fdcdc1639fbe6a35ebac0829f1fa3963
 https://www.coursera.org/specializations/python-3-programming
 
 www.datacamp.com/
-
-
-
-
 
 
 ### Weekly task 3
