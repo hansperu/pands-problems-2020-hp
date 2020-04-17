@@ -48,4 +48,22 @@ https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 
 https://youtu.be/AFnxpT5Aois
 
-[I'm an inline-style link](https://www.google.com)
+### Weekly task 5
+
+Write a program that outputs whether or not today is a weekday. An example of running this program on a Thursday is given below.
+
+$ python weekday.py
+Yes, unfortunately today is a weekday.
+An example of running it on a Saturday is as follows.
+
+$ python weekday.py
+It is the weekend, yay!
+
+#### To solve this task, the following websites have been taken into account:
+
+https://realpython.com/python-lists-tuples/ https://realpython.com/python-dicts/ 
+
+#### videos 
+
+https://youtu.be/uOpW1tKKO8M 
+https://youtu.be/UELgsIxE7g
