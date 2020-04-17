@@ -61,9 +61,44 @@ It is the weekend, yay!
 
 #### To solve this task, the following websites have been taken into account:
 
-https://realpython.com/python-lists-tuples/ https://realpython.com/python-dicts/ 
+https://realpython.com/python-lists-tuples/ 
+https://realpython.com/python-dicts/ 
 
 #### videos 
 
 https://youtu.be/uOpW1tKKO8M 
 https://youtu.be/UELgsIxE7g
+
+### Weekly task 6
+
+Write a program that takes a positive floating-point number as input and outputs an approximation of its square root. You should create a function called sqrt that does this.
+
+$ python squareroot.py
+Please enter a positive number: 14.5
+The square root of 14.5 is approx. 3.8.
+
+#### To solve this task, the book A Whirlwind Tour of Pyton has been taken into account:
+
+https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+
+#### videos
+
+https://youtu.be/oxMXtrcMoZI
+
+
+### Weekly homework 7
+
+Write a program that reads from a text file and generates the number of e it contains. The program must take the file name of an argument on the command line.
+
+$ python en.py moby-dick.txt
+116960
+
+#### To solve this task, the following websites have been taken into account:
+
+https://programminghistorian.org/es/lecciones/trabajar-con-archivos-de-texto
+
+#### videos
+
+https://youtu.be/5svp6GIdzzA
+
+
