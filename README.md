@@ -101,4 +101,17 @@ https://programminghistorian.org/es/lecciones/trabajar-con-archivos-de-texto
 
 https://youtu.be/5svp6GIdzzA
 
+### Weekly task 8
+
+Write a program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+
+#### To solve this task, the following websites have been taken into account:
+
+https://realpython.com/python-matplotlib-guide/
+
+#### videos
+
+https://youtu.be/i8ruymr85Gg
+
+
 
