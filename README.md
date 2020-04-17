@@ -6,7 +6,7 @@
 
 ### Technology
 
-Python 3.8.2
+Python 3.8.2 
 
 Visual Studio Code - March 2020 (version 1.44)
 
@@ -14,14 +14,20 @@ Git 2.26.1
 
 Gihub
 
+GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS Code, Compile, Run and Debug online from anywhere in world.
+
 OS: Ubuntu 19.10 - Windows 10 Pro - 64 bit 
 
 ### Hardware requirements
 
 Number of cores: 4
+
 Launch date: Intel(R) Core (TM) i7-4790 CPU
+
 RAM 8,00 GB
+
 Clock frequency: 3,6 GHz
+
 CPU Benchmark score: 1833
 
 
@@ -31,19 +37,29 @@ CPU Benchmark score: 1833
 Write a program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
 
 
-
-
-
-
 #### To solve this task, the book A Whirlwind Tour of Pyton has been taken into account:
 
+https://docs.python.org/3/tutorial/
+
 https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+
+
+#### Other sources
+
+
 
 #### videos
 
 https://youtu.be/VMNxj6O6WGM
 
 https://youtu.be/cchC3dDAf6s
+
+#### Examples found:
+
+
+
+
+
 
 ### Weekly task 3
 
