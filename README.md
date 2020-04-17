@@ -1,8 +1,39 @@
 # Programming And Scripting Homework for GMIT
 
+## Objective of the project
+
+
+
+### Technology
+
+Python 3.8.2
+
+Visual Studio Code - March 2020 (version 1.44)
+
+Git 2.26.1
+
+Gihub
+
+OS: Ubuntu 19.10 - Windows 10 Pro - 64 bit 
+
+### Hardware requirements
+
+Number of cores: 4
+Launch date: Intel(R) Core (TM) i7-4790 CPU
+RAM 8,00 GB
+Clock frequency: 3,6 GHz
+CPU Benchmark score: 1833
+
+
+
 ### Weekly task 2
 
 Write a program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
+
+
+
+
+
 
 #### To solve this task, the book A Whirlwind Tour of Pyton has been taken into account:
 
