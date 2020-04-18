@@ -34,6 +34,11 @@ Clock frequency: 3,6 GHz
 CPU Benchmark score: 1833
 
 
+### Weekly homework 1
+
+During this first week we have installed the Git and configured the GitHub account.
+
+
 ### Weekly task 2
 
 Write a program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
