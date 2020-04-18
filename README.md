@@ -37,6 +37,7 @@ CPU Benchmark score: 1833
 ### Weekly homework 1
 
 During this first week we have installed the Git and configured the GitHub account.
+A document in PDF format is attached explaining the procedure to follow for the installation of Git in the Ubuntu OS
 
 
 ### Weekly task 2
